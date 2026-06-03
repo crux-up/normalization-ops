@@ -1,0 +1,21 @@
+.wrapper {
+  margin-bottom: 1.5rem;
+}
+
+.card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  padding: 1.5rem 2rem;
+  border-color: rgba(239, 68, 68, 0.3) !important;
+}
+
+.icon {
+  font-size: 1.6rem;
+  color: var(--color-danger);
+}
+
+.text {
+  color: var(--color-danger);
+  font-weight: 500;
+}

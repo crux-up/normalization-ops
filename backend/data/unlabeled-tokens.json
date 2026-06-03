@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "description": "Running log of unlabeled tokens encountered during study name normalization.",
+  "lastUpdated": "2026-06-02",
+  "totalEntries": 3,
+  "entries": [
+    {
+      "unlabeledTerm": "XXXXXXX",
+      "rawStudyName": "XXXXXXX FOOBAR 999",
+      "normalizedStudyName": "XXXXXXX FOOBAR 999",
+      "firstSeenDate": "2026-06-02"
+    },
+    {
+      "unlabeledTerm": "FOOBAR",
+      "rawStudyName": "XXXXXXX FOOBAR 999",
+      "normalizedStudyName": "XXXXXXX FOOBAR 999",
+      "firstSeenDate": "2026-06-02"
+    },
+    {
+      "unlabeledTerm": "999",
+      "rawStudyName": "XXXXXXX FOOBAR 999",
+      "normalizedStudyName": "XXXXXXX FOOBAR 999",
+      "firstSeenDate": "2026-06-02"
+    }
+  ]
+}

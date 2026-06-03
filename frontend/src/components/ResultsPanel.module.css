@@ -1,0 +1,9 @@
+.section {
+  animation: fadeInUp 0.4s ease-out;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
